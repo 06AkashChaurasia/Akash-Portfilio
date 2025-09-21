@@ -26,25 +26,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and achie
 - **Animations**: CSS Keyframes, Intersection Observer API
 - **Design**: Responsive Design, Mobile-First Approach
 
-## 📁 Project Structure
-
-```
-akash-portfolio/
-├── index.html                 # Main HTML file
-├── css/
-│   └── style.css             # Main stylesheet
-├── js/
-│   └── script.js             # JavaScript functionality
-├── assets/
-│   ├── images/
-│   │   ├── akash-photo.jpg   # Your profile photo (add this)
-│   │   ├── akash-about.jpg   # About section photo (add this)
-│   │   └── favicon.ico       # Website favicon
-│   └── documents/
-│       └── Akash_Chaurasia_Resume.pdf  # Your resume (add this)
-├── README.md                 # Project documentation
-└── .gitignore               # Git ignore file
-```
 
 ## 🚀 Quick Start
 
